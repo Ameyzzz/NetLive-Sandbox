@@ -1,5 +1,7 @@
 NetLive-Sandbox
 
+https://marketplace.visualstudio.com/items?itemName=CodersDontCry.netlive-sandbox
+
 NetLive-Sandbox is a Visual Studio Code extension built for web developers who want to streamline their workflow and reduce the friction between writing code, testing APIs, and debugging results. Traditionally, developers are forced to switch constantly between their editor, browser, and mock API tools just to verify small changes. With NetLive-Sandbox, all of this happens inside VSCode—making the editor itself a powerful sandbox for web prototyping.
 
 🚀 What is NetLive-Sandbox?
